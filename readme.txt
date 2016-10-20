@@ -1,2 +1,4 @@
 git is a version control system.
-Git is free software
+Git is friee software
+Git has a muatable index called statg
+Git teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeese
